@@ -1,4 +1,4 @@
-#this is docker
+#this is docker file
 FROM komljen/ubuntu
 MAINTAINER Alen Komljen <alen.komljen@live.com>
 
