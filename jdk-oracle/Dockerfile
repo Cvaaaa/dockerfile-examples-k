@@ -1,7 +1,7 @@
 FROM komljen/ubuntu
 MAINTAINER Alen Komljen <alen.komljen@live.com>
 
-ENV JAVA_VERSION 7 jhjh
+ENV JAVA_VERSION 7
 
 RUN \
   add-apt-repository -y ppa:webupd8team/java && \
